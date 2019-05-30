@@ -8,7 +8,7 @@
     "main": "src/index.js",
     "dependencies": {
         "underscore": "1.8.3",
-        "web3-core-helpers": "1.0.0-beta.27",
+        "web3-core-helpers": "git+https://github.com/lemengbin/web3-core-helpers.git#1.0.0-beta.27",
         "websocket": "git://github.com/frozeman/WebSocket-Node.git#browserifyCompatible"
     }
 }
